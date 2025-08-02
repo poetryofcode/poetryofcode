@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/MySQL-lavender?style=for-the-badge&logo=mysql&logoColor=blue"/>
 <img src="https://img.shields.io/badge/JQuery-silver?style=for-the-badge&logo=jquery&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Gulp-red?style=for-the-badge&logo=gulp&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack-mint?style=for-the-badge&logoColor=coral&color=98FF98"/>
 <img src="https://img.shields.io/badge/RTK--Query-midnightblue?style=for-the-badge&logo=redux&logoColor=purple"/>
 <img src="https://img.shields.io/badge/Graphql-beige?style=for-the-badge&logo=graphql&logoColor=pink"/>
 <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>
