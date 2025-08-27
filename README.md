@@ -1,5 +1,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetryofcode&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poetryofcode&layout=compact&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poetryofcode&theme=radical)
+
+
+
+
+
 ![](https://leetcard.jacoblin.cool/poetryofcode?theme=radical&font=Roboto)
 <div class="display:flex">
 <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white"/>
