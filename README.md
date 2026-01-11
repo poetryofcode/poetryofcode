@@ -31,4 +31,6 @@
 <img src="https://img.shields.io/badge/RTK--Query-midnightblue?style=for-the-badge&logo=redux&logoColor=purple"/>
 <img src="https://img.shields.io/badge/Graphql-beige?style=for-the-badge&logo=graphql&logoColor=pink"/>
 <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+
 </div>
