@@ -1,13 +1,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=poetryofcode&show_icons=true&theme=radical)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poetryofcode&theme=radical)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poetryofcode&theme=radical)
-
-
-
-
-
-
 ![](https://leetcard.jacoblin.cool/poetryofcode?theme=radical&font=Roboto)
+[![Codewars](https://www.codewars.com/users/poetryofcode/badges/large)](https://www.codewars.com/users/poetryofcode)
+
 <div class="display:flex">
 <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white"/>
