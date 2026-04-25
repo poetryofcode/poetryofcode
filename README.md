@@ -27,8 +27,8 @@
 <img src="https://img.shields.io/badge/Gulp-red?style=for-the-badge&logo=gulp&logoColor=white"/>
 <img src="https://img.shields.io/badge/TanStack-mint?style=for-the-badge&logoColor=coral&color=98FF98"/>
 <img src="https://img.shields.io/badge/RTK--Query-midnightblue?style=for-the-badge&logo=redux&logoColor=purple"/>
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Graphql-beige?style=for-the-badge&logo=graphql&logoColor=pink"/>
 <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
 </div>
