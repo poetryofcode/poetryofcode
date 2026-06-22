@@ -6,7 +6,7 @@
 
 <div class="display:flex">
 <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scss-palevioletred?style=for-the-badge&logo=scss&logoColor=white"/>
 <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
