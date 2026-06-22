@@ -5,7 +5,7 @@
 [![Codewars](https://www.codewars.com/users/poetryofcode/badges/large)](https://www.codewars.com/users/poetryofcode)
 
 <div class="display:flex">
-<img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scss-palevioletred?style=for-the-badge&logo=scss&logoColor=white"/>
 <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-skyblue?style=for-the-badge&logo=tailwindcss&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Radix-lavender?style=for-the-badge&logo=radixui&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-lightgray?style=for-the-badge&logo=Next.js&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jest-indigo?style=for-the-badge&logo=jest&logoColor=red"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -33,6 +33,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2EC4B6?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-DA742D?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
