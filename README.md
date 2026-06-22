@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Jest-indigo?style=for-the-badge&logo=jest&logoColor=red"/>
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js&logoColor=lightgreen"/>
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=blue"/>
+<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socket.io&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-slateblue?style=for-the-badge&logo=php&logoColor=white"/>
