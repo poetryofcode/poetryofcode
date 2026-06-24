@@ -5,14 +5,13 @@
 [![Codewars](https://www.codewars.com/users/poetryofcode/badges/large)](https://www.codewars.com/users/poetryofcode)
 
 <div class="display:flex">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scss-CD6799?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-skyblue?style=for-the-badge&logo=tailwindcss&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Radix-lavender?style=for-the-badge&logo=radixui&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-lightgray?style=for-the-badge&logo=Next.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
