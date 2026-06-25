@@ -11,8 +11,8 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Radix_UI-lavender?style=for-the-badge&logo=radixui&logoColor=black"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Radix-lavender?style=for-the-badge&logo=radixui&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-lightgray?style=for-the-badge&logo=Next.js&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=lightgreen"/>
@@ -21,8 +21,8 @@
 <img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socket.io&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-slateblue?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-lavender?style=for-the-badge&logo=mysql&logoColor=blue"/>
-<img src="https://img.shields.io/badge/JQuery-silver?style=for-the-badge&logo=jquery&logoColor=blue"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gulp-red?style=for-the-badge&logo=gulp&logoColor=white"/>
 <img src="https://img.shields.io/badge/TanStack-mint?style=for-the-badge&logoColor=coral&color=98FF98"/>
 <img src="https://img.shields.io/badge/RTK--Query-midnightblue?style=for-the-badge&logo=redux&logoColor=purple"/>
