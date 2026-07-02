@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js&logoColor=lightgreen"/>
 <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-purple?style=for-the-badge&logo=java&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Socket.io-white?style=for-the-badge&logo=socket.io&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-slateblue?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
