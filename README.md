@@ -36,4 +36,5 @@
 <img src="https://img.shields.io/badge/Loki-1A1A2E?style=for-the-badge&logo=elasticstack&logoColor=00BFB3"/>
 <img src="https://img.shields.io/badge/Grafana-FF8C1A?style=for-the-badge&logo=grafana&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitOps-EF7B4D?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
