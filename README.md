@@ -39,5 +39,5 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitOps-EF7B4D?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/EKS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS EKS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
 </div>
