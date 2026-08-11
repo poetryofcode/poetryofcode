@@ -35,6 +35,9 @@
 <img src="https://img.shields.io/badge/Prometheus-A33A00?style=for-the-badge&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Loki-1A1A2E?style=for-the-badge&logo=elasticstack&logoColor=00BFB3"/>
 <img src="https://img.shields.io/badge/Grafana-FF8C1A?style=for-the-badge&logo=grafana&logoColor=black"/>
+<img src="https://img.shields.io/badge/VPS-00A651?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitOps-EF7B4D?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/EKS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
 </div>
