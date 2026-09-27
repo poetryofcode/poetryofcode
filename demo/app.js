@@ -813,6 +813,15 @@ function toggleSkill(name) {
     button.classList.toggle("is-lit", button.dataset.skill === skill);
   });
   paintDock();
+  if (!skill) return;
+  const active = sheet.querySelector(`[data-skill="${CSS.escape(name)}"]`);
+  const dock = $("dock");
+  if (!active || dock.hidden) return;
+  const limit = dock.getBoundingClientRect().top - 8;
+  const bottom = active.getBoundingClientRect().bottom;
+  if (bottom > limit) {
+    sheet.scrollBy({ top: bottom - limit, behavior: reduce ? "auto" : "smooth" });
+  }
 }
 
 function bindPress(root) {
@@ -875,11 +884,11 @@ function onClick(event) {
 
 function fit() {
   const narrow = window.innerWidth < 1100;
-  const chrome = narrow ? Math.min(240, window.innerHeight * 0.28) : 36;
-  const maxH = Math.max(520, window.innerHeight - chrome);
-  const maxW = narrow ? window.innerWidth - 36 : Math.min(520, window.innerWidth * 0.46);
+  const chrome = narrow ? 158 : 96;
+  const maxH = window.innerHeight - chrome;
+  const maxW = narrow ? window.innerWidth - 28 : Math.min(470, window.innerWidth * 0.4);
   const scale = Math.min(1, maxH / 844, maxW / 390);
-  document.documentElement.style.setProperty("--s", String(Math.max(scale, 0.58)));
+  document.documentElement.style.setProperty("--s", String(Math.max(scale, 0.46)));
   updateChrome();
 }
 

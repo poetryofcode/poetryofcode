@@ -397,10 +397,10 @@ a { color: var(--cyan); }
 .who-meta { margin: 2px 0 0; color: var(--muted); font-size: 12px; }
 
 .display {
-  margin: 18px 0 0;
+  margin: 14px 0 0;
   font-family: var(--serif);
   font-weight: 560;
-  font-size: 58px;
+  font-size: 52px;
   line-height: 0.86;
   letter-spacing: -0.04em;
 }
@@ -421,7 +421,7 @@ a { color: var(--cyan); }
 .dek { margin: 6px 0 0; color: var(--muted); font-size: 14px; line-height: 1.45; }
 
 .stats {
-  margin-top: 16px;
+  margin-top: 12px;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   border: 1px solid var(--line);
@@ -446,7 +446,7 @@ a { color: var(--cyan); }
 }
 
 .section-label {
-  margin: 18px 0 8px;
+  margin: 12px 0 8px;
   display: flex;
   justify-content: space-between;
   align-items: baseline;
@@ -472,9 +472,9 @@ a { color: var(--cyan); }
 }
 .tap.is-down .tap-fx { transform: scale(0.975); }
 
-.feature { width: 100%; height: 176px; border-radius: 22px; }
+.feature { width: 100%; height: 158px; border-radius: 22px; }
 .feature-face {
-  height: 176px;
+  height: 158px;
   border-radius: 22px;
   padding: 16px 16px 14px;
   display: flex;
@@ -528,7 +528,7 @@ a { color: var(--cyan); }
   line-height: 1;
 }
 
-.link-row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 12px; }
+.link-row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 10px; }
 .link-row button {
   border-radius: 14px;
   padding: 12px;
@@ -766,13 +766,13 @@ a { color: var(--cyan); }
     grid-template-columns: 1fr;
     justify-items: center;
     align-content: start;
-    padding: 22px 16px 32px;
+    padding: 16px 16px 20px;
+    gap: 8px;
   }
-  .copy, .steps { justify-self: center; width: min(560px, 100%); text-align: center; }
-  .lede { margin-left: auto; margin-right: auto; }
-  .chapters, .flow { justify-content: center; }
-  .flow button { text-align: left; }
-  .steps { order: 3; }
+  .copy { justify-self: center; width: min(560px, 100%); text-align: center; }
+  .copy h1 { font-size: 34px; }
+  .lede, .steps { display: none; }
+  .chapters { justify-content: center; }
 }
 
 @media (prefers-reduced-motion: reduce) {
