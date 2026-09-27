@@ -1,3 +1,13 @@
+## Interactive demo
+
+A click-through iPhone demo of this profile. It uses the radical-theme colors from the cards below, the real projects, and the badge stack. Screens change only when you tap — nothing autoplays.
+
+```bash
+python3 -m http.server 4173
+```
+
+Open [http://localhost:4173/demo/](http://localhost:4173/demo/). No install and no API keys.
+
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=poetryofcode&theme=radical)
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poetryofcode&theme=radical)
 ![](https://leetcard.jacoblin.cool/poetryofcode?theme=radical&font=Roboto)
